@@ -1,0 +1,7 @@
+14:00:48.368 [main] INFO  c.y.m.MybatisPlusApplication - [logStarting,55] - Starting MybatisPlusApplication on Ni with PID 32892 (H:\mysql_study\mybatis-plus\target\classes started by 16074 in H:\mysql_study)
+14:00:48.370 [main] INFO  c.y.m.MybatisPlusApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+14:00:48.925 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:00:48.925 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:00:48.925 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.38]
+14:00:48.981 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:00:49.241 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
